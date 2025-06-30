@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917680997115",
+    "project_id": "escusely-1a3c0",
+    "storage_bucket": "escusely-1a3c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917680997115:android:38496d902f9a888461a65e",
+        "android_client_info": {
+          "package_name": "com.example.escusely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaL8wI08S3v-3Gpp-z48gGgS7M8xrePU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
